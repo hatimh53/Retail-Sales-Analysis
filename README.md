@@ -25,14 +25,19 @@ The raw data had negative values, impossible entries (age 0, age 999), inconsist
 ![Payment & Order Analysis](images/Payment_Order_Analysis.png)
 
 ## 📁 Project Structure
+
+```text
 Retail_Sales_Project/
-├── Retail_Sales_Analysis.ipynb 
-├── retail_sales_dataset.csv 
-├── images/ 
-│ ├── Sales_Trend.png
-│ ├── Category_analysis.png
-│ └── Payment_Order_analysis.png
-└── README.md
+│
+├── Retail_Sales_Analysis.ipynb
+├── retail_sales_dataset.csv
+├── README.md
+└── images/
+    ├── Sales_Trend.png
+    ├── Category_analysis.png
+    └── Payment_Order_analysis.png
+```
+
 
 ## 💡 Key Insights
 - Sales *volume* dropped in 2024, but *revenue* rose — average order value increased
