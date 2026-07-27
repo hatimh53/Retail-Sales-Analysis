@@ -16,7 +16,7 @@ The raw data had negative values, impossible entries (age 0, age 999), inconsist
 ## 📊 Key Visuals
 
 ### Sales Trend Over Years
-![Sales Trend](images/Sales_Trend.png)
+![Sales Trends](images/Sales_Trends.png)
 
 ### Category-wise Sales & Profit
 ![Category Analysis](images/Category_Analysis.png)
